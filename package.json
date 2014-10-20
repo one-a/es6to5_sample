@@ -1,0 +1,18 @@
+{
+  "name": "es6to5",
+  "version": "0.0.0",
+  "description": "ES6 to ES5 compiler sample",
+  "main": "",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "gulp-6to5": "^1.0.1",
+    "gulp-traceur": "~0.13.0"
+  },
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "gulp": "^3.8.8"
+  }
+}
